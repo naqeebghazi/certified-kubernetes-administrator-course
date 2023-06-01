@@ -10,7 +10,7 @@
    - Demos
    - Quizzes
    - Practice Questions
-   - Q & A Section
+   - Q & A Section.
    
 ## Pre-Requisites
  
