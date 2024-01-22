@@ -166,7 +166,7 @@ These are notes from the [Certified Kubernetes Administrator Course](https://kod
   - [03-Pre-requisite-DNS](docs/09-Networking/03-Pre-requisite-DNS.md)
   - [04-Pre-requisite-CoreDNS](docs/09-Networking/04-Pre-requisite-CoreDNS.md)
   - [05-Pre-requisite-Network-Namespace](docs/09-Networking/05-Pre-requisite-Network-Namespace.md)
-  - [06-Pre-requisite-Docker-Networking](docs/09-Networking/06-Pre-requisite-Docker-Networking.mdd)
+  - [06-Pre-requisite-Docker-Networking](docs/09-Networking/06-Pre-requisite-Docker-Networking.md)
   - [07-Pre-requisite-CNI](docs/09-Networking/07-Pre-requisite-CNI.md)
   - [08-Cluster-Networking](docs/09-Networking/08-Cluster-Networking.md)
   - [09-Practice-Test-Explore-Env](docs/09-Networking/09-Practice-Test-Explore-Env.md)
@@ -205,6 +205,8 @@ These are notes from the [Certified Kubernetes Administrator Course](https://kod
   - [03-Provision-VMs-with-Vagrant](docs/11-Install-Kubernetes-the-kubeadm-way/03-Provision-VMs-with-Vagrant.md)
   - [04-Demo-Deployment-with-Kubeadm](docs/11-Install-Kubernetes-the-kubeadm-way/04-Demo-Deployment-with-Kubeadm.md)
   - [05-Practice-Test-Deploy-Kubernetes-Cluster-using-Kubeadm](docs/11-Install-Kubernetes-the-kubeadm-way/05-Practice-Test-Deploy-Kubernetes-Cluster-using-Kubeadm.md)
+  - [BONUS 1 - Various kubeadm cluster configurations](./kubeadm-clusters) - Including for Apple M1/M2!
+  - [BONUS 2 - Install EKS cluster on AWS](./managed-clusters/eks/)
 
 
 - [12-Troubleshooting](docs/12-Troubleshooting)
@@ -242,3 +244,10 @@ These are notes from the [Certified Kubernetes Administrator Course](https://kod
   - [04-CKA-MockExam-2-Solution](docs/15-Mock-Exams/04-CKA-MockExam-2-Solution.md)
   - [05-Mock-Exam-3](docs/15-Mock-Exams/05-Mock-Exam-3.md)
   - [06-CKA-MockExam-3-Solution](docs/15-Mock-Exams/06-CKA-MockExam-3-Solution.md)
+
+- [16-Ultimate-Mocks](docs/16-Ultimate-Mocks/)
+
+- [17-Tips-and-Tricks](docs/17-tips-and-tricks/)
+  - [01-Server for testing network policies](docs/17-tips-and-tricks/docs/01-server-for-testing-network-policies.md)
+  - [02-Client-for-testing-network-things](docs/17-tips-and-tricks/docs/02-client--for-testing-network-things.md)
+
